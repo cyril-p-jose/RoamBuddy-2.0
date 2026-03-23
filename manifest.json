@@ -1,0 +1,26 @@
+{
+  "name": "RoamBuddy",
+  "short_name": "RoamBuddy",
+  "description": "Smart travel planner - plan your trips in seconds",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=192&h=192&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=512&h=512&fit=crop",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["travel", "lifestyle", "productivity"]
+}
