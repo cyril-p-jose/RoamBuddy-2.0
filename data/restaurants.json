@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "The Spice Garden",
+    "destination": "Munnar",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80",
+    "rating": 4.6,
+    "cuisine": "Kerala / South Indian",
+    "priceRange": "₹₹",
+    "description": "Authentic Kerala cuisine with stunning valley views.",
+    "open": "7 AM – 10 PM",
+    "mustTry": ["Kerala Fish Curry", "Appam with Stew", "Puttu & Kadala Curry"]
+  },
+  {
+    "id": 2,
+    "name": "1135 AD",
+    "destination": "Jaipur",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&q=80",
+    "rating": 4.8,
+    "cuisine": "Rajasthani / Mughlai",
+    "priceRange": "₹₹₹",
+    "description": "Royal dining experience inside Amber Fort complex.",
+    "open": "11 AM – 11 PM",
+    "mustTry": ["Dal Baati Churma", "Laal Maas", "Ghevar"]
+  },
+  {
+    "id": 3,
+    "name": "Britto's",
+    "destination": "Goa",
+    "image": "https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?w=600&q=80",
+    "rating": 4.5,
+    "cuisine": "Goan / Seafood",
+    "priceRange": "₹₹",
+    "description": "Iconic beachfront shack on Baga Beach open since 1950.",
+    "open": "8 AM – 12 AM",
+    "mustTry": ["Goan Fish Curry", "Prawn Balchao", "Bebinca"]
+  },
+  {
+    "id": 4,
+    "name": "Gesmo Restaurant",
+    "destination": "Leh Ladakh",
+    "image": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=600&q=80",
+    "rating": 4.4,
+    "cuisine": "Tibetan / Ladakhi",
+    "priceRange": "₹",
+    "description": "Popular spot for backpackers serving hearty mountain food.",
+    "open": "7 AM – 9 PM",
+    "mustTry": ["Thukpa", "Momos", "Butter Tea", "Tsampa"]
+  },
+  {
+    "id": 5,
+    "name": "Kashi Chat Bhandar",
+    "destination": "Varanasi",
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&q=80",
+    "rating": 4.7,
+    "cuisine": "Street Food / Chaat",
+    "priceRange": "₹",
+    "description": "Legendary street food stall near Godowlia Chowk.",
+    "open": "10 AM – 10 PM",
+    "mustTry": ["Tamatar Chaat", "Aloo Tikkia", "Lassi"]
+  },
+  {
+    "id": 6,
+    "name": "Full Moon Café",
+    "destination": "Andaman Islands",
+    "image": "https://images.unsplash.com/photo-1458644267420-66bc8a5f21e4?w=600&q=80",
+    "rating": 4.5,
+    "cuisine": "Seafood / Continental",
+    "priceRange": "₹₹",
+    "description": "Breezy beachside café known for fresh catch and sunsets.",
+    "open": "9 AM – 11 PM",
+    "mustTry": ["Grilled Lobster", "Fish Tikka", "Coconut Prawn Curry"]
+  }
+]
