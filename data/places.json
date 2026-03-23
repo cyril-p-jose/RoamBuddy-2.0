@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Munnar",
+    "state": "Kerala",
+    "image": "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=600&q=80",
+    "rating": 4.8,
+    "category": "Hill Station",
+    "description": "A breathtaking hill station in Kerala nestled among tea plantations.",
+    "details": "Munnar is renowned for its vast expanses of tea plantations, misty mountains, and exotic wildlife. Key attractions include Eravikulam National Park, Mattupetty Dam, and Top Station.",
+    "lat": 10.0889,
+    "lng": 77.0595,
+    "activities": ["Tea Plantation Tour", "Eravikulam Trek", "Mattupetty Boating", "Night Safari"]
+  },
+  {
+    "id": 2,
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "image": "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=600&q=80",
+    "rating": 4.7,
+    "category": "Heritage City",
+    "description": "The Pink City of India, famous for its palaces and forts.",
+    "details": "Jaipur, the capital of Rajasthan, is known for its stunning architecture including the Hawa Mahal, Amber Fort, and City Palace. The bustling bazaars offer beautiful handicrafts.",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "activities": ["Amber Fort Tour", "Hawa Mahal Visit", "Bazaar Shopping", "Elephant Ride"]
+  },
+  {
+    "id": 3,
+    "name": "Goa",
+    "state": "Goa",
+    "image": "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?w=600&q=80",
+    "rating": 4.6,
+    "category": "Beach Destination",
+    "description": "India's sun-kissed coastal paradise with golden beaches and vibrant nightlife.",
+    "details": "Goa offers a unique blend of Indian and Portuguese culture. Famous for Calangute Beach, Old Goa Churches, spice plantations, and the vibrant nightlife at Baga Beach.",
+    "lat": 15.2993,
+    "lng": 74.1240,
+    "activities": ["Beach Hopping", "Water Sports", "Dudhsagar Waterfall Trek", "Flea Market"]
+  },
+  {
+    "id": 4,
+    "name": "Leh Ladakh",
+    "state": "J&K",
+    "image": "https://images.unsplash.com/photo-1614849963640-9cc74b2a826f?w=600&q=80",
+    "rating": 4.9,
+    "category": "Adventure",
+    "description": "A high-altitude desert with stunning landscapes and ancient monasteries.",
+    "details": "Leh Ladakh is a land of dramatic landscapes, crystal-clear lakes, and ancient Buddhist monasteries. Pangong Lake, Nubra Valley, and Khardung La pass are must-visits.",
+    "lat": 34.1526,
+    "lng": 77.5771,
+    "activities": ["Pangong Lake Visit", "Monastery Tour", "Bike Ride", "River Rafting"]
+  },
+  {
+    "id": 5,
+    "name": "Varanasi",
+    "state": "Uttar Pradesh",
+    "image": "https://images.unsplash.com/photo-1561361058-c24cecae35ca?w=600&q=80",
+    "rating": 4.5,
+    "category": "Spiritual",
+    "description": "One of the oldest living cities in the world, on the banks of the Ganges.",
+    "details": "Varanasi is a spiritual capital of India, famous for its ghats, the Ganga Aarti ceremony, and ancient temples like Kashi Vishwanath. The city comes alive at dawn.",
+    "lat": 25.3176,
+    "lng": 82.9739,
+    "activities": ["Ganga Aarti", "Boat Ride at Sunrise", "Temple Hopping", "Silk Weaving Tour"]
+  },
+  {
+    "id": 6,
+    "name": "Andaman Islands",
+    "state": "A&N Islands",
+    "image": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=600&q=80",
+    "rating": 4.8,
+    "category": "Island Getaway",
+    "description": "Pristine islands with turquoise waters and rich marine biodiversity.",
+    "details": "The Andaman Islands are a paradise for beach lovers and adventure seekers. Radhanagar Beach, Cellular Jail, and Elephant Beach offer unforgettable experiences.",
+    "lat": 11.7401,
+    "lng": 92.6586,
+    "activities": ["Scuba Diving", "Snorkelling", "Sea Walk", "Cellular Jail Light Show"]
+  }
+]
