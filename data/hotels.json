@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Tea County Resort",
+    "destination": "Munnar",
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80",
+    "rating": 4.7,
+    "priceRange": "₹₹₹",
+    "type": "Resort",
+    "description": "Luxury resort set amidst lush tea estates with mountain views.",
+    "amenities": ["Swimming Pool", "Spa", "Free WiFi", "Restaurant", "Valley View"],
+    "checkIn": "14:00",
+    "checkOut": "12:00"
+  },
+  {
+    "id": 2,
+    "name": "Samode Haveli",
+    "destination": "Jaipur",
+    "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600&q=80",
+    "rating": 4.9,
+    "priceRange": "₹₹₹₹",
+    "type": "Heritage Hotel",
+    "description": "A 475-year-old palace hotel with heritage rooms and royal service.",
+    "amenities": ["Swimming Pool", "Heritage Tour", "Fine Dining", "Spa", "Rooftop"],
+    "checkIn": "14:00",
+    "checkOut": "12:00"
+  },
+  {
+    "id": 3,
+    "name": "Alila Diwa Goa",
+    "destination": "Goa",
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+    "rating": 4.8,
+    "priceRange": "₹₹₹",
+    "type": "Luxury Hotel",
+    "description": "Contemporary luxury hotel surrounded by rice fields and pools.",
+    "amenities": ["Infinity Pool", "Beach Shuttle", "Spa", "Fine Dining", "Gym"],
+    "checkIn": "15:00",
+    "checkOut": "11:00"
+  },
+  {
+    "id": 4,
+    "name": "The Grand Dragon Ladakh",
+    "destination": "Leh Ladakh",
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600&q=80",
+    "rating": 4.6,
+    "priceRange": "₹₹₹",
+    "type": "Boutique Hotel",
+    "description": "Modern boutique hotel with panoramic views of the Leh Valley.",
+    "amenities": ["Heated Rooms", "Oxygen Bar", "Restaurant", "Travel Desk", "Garden"],
+    "checkIn": "14:00",
+    "checkOut": "12:00"
+  },
+  {
+    "id": 5,
+    "name": "BrijRama Palace",
+    "destination": "Varanasi",
+    "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=600&q=80",
+    "rating": 4.8,
+    "priceRange": "₹₹₹₹",
+    "type": "Heritage Hotel",
+    "description": "An 18th century palace right on the ghats of the holy Ganges.",
+    "amenities": ["Ganga View", "Rooftop Dining", "Spa", "Yoga Classes", "Heritage Walk"],
+    "checkIn": "14:00",
+    "checkOut": "12:00"
+  },
+  {
+    "id": 6,
+    "name": "Taj Exotica Andaman",
+    "destination": "Andaman Islands",
+    "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=600&q=80",
+    "rating": 4.9,
+    "priceRange": "₹₹₹₹",
+    "type": "Beach Resort",
+    "description": "A stunning beach resort offering overwater villas and snorkelling.",
+    "amenities": ["Private Beach", "Water Sports", "Infinity Pool", "Spa", "Restaurant"],
+    "checkIn": "15:00",
+    "checkOut": "11:00"
+  }
+]
