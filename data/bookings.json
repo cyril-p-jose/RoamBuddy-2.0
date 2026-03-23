@@ -1,0 +1,96 @@
+{
+  "flights": [
+    {
+      "id": "FL001",
+      "airline": "IndiGo",
+      "logo": "✈️",
+      "from": "Delhi (DEL)",
+      "to": "Cochin (COK)",
+      "departure": "06:30",
+      "arrival": "09:15",
+      "date": "2026-04-10",
+      "duration": "2h 45m",
+      "class": "Economy",
+      "status": "Confirmed",
+      "pnr": "6E-4521",
+      "seat": "14C"
+    },
+    {
+      "id": "FL002",
+      "airline": "Air India",
+      "logo": "✈️",
+      "from": "Mumbai (BOM)",
+      "to": "Jaipur (JAI)",
+      "departure": "10:00",
+      "arrival": "11:40",
+      "date": "2026-04-15",
+      "duration": "1h 40m",
+      "class": "Business",
+      "status": "Confirmed",
+      "pnr": "AI-7834",
+      "seat": "3A"
+    }
+  ],
+  "trains": [
+    {
+      "id": "TR001",
+      "trainName": "Rajdhani Express",
+      "trainNo": "12301",
+      "from": "New Delhi",
+      "to": "Mumbai Central",
+      "departure": "16:25",
+      "arrival": "08:35+1",
+      "date": "2026-04-12",
+      "duration": "16h 10m",
+      "class": "3A",
+      "status": "Confirmed",
+      "pnr": "4251896370",
+      "coach": "B4",
+      "seat": "42 (Lower)"
+    },
+    {
+      "id": "TR002",
+      "trainName": "Shatabdi Express",
+      "trainNo": "12013",
+      "from": "Amritsar",
+      "to": "New Delhi",
+      "departure": "05:00",
+      "arrival": "12:30",
+      "date": "2026-04-20",
+      "duration": "7h 30m",
+      "class": "CC",
+      "status": "RAC 5",
+      "pnr": "6384720154",
+      "coach": "C3",
+      "seat": "78"
+    }
+  ],
+  "hotels": [
+    {
+      "id": "HT001",
+      "name": "Tea County Resort",
+      "destination": "Munnar",
+      "checkIn": "2026-04-10",
+      "checkOut": "2026-04-13",
+      "nights": 3,
+      "roomType": "Deluxe Valley View",
+      "guests": 2,
+      "status": "Confirmed",
+      "bookingId": "HTL-98231",
+      "totalAmount": "₹18,000"
+    },
+    {
+      "id": "HT002",
+      "name": "Alila Diwa Goa",
+      "destination": "Goa",
+      "checkIn": "2026-04-15",
+      "checkOut": "2026-04-18",
+      "nights": 3,
+      "roomType": "Superior Pool View",
+      "guests": 2,
+      "status": "Confirmed",
+      "bookingId": "HTL-74521",
+      "totalAmount": "₹22,500"
+    }
+  ]
+}
