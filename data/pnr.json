@@ -1,0 +1,69 @@
+[
+  {
+    "pnr": "4251896370",
+    "trainName": "Rajdhani Express",
+    "trainNo": "12301",
+    "from": "New Delhi",
+    "to": "Mumbai Central",
+    "date": "2026-04-12",
+    "departure": "16:25",
+    "arrival": "08:35",
+    "passengers": [
+      { "name": "Ashik Madhu", "age": 22, "coach": "B4", "seat": "42", "berth": "Lower", "status": "CNF" }
+    ]
+  },
+  {
+    "pnr": "6384720154",
+    "trainName": "Shatabdi Express",
+    "trainNo": "12013",
+    "from": "Amritsar",
+    "to": "New Delhi",
+    "date": "2026-04-20",
+    "departure": "05:00",
+    "arrival": "12:30",
+    "passengers": [
+      { "name": "Riya Sharma", "age": 24, "coach": "C3", "seat": "78", "berth": "—", "status": "RAC 5" },
+      { "name": "Aman Verma", "age": 27, "coach": "C3", "seat": "79", "berth": "—", "status": "WL 12" }
+    ]
+  },
+  {
+    "pnr": "8192734051",
+    "trainName": "Kerala Express",
+    "trainNo": "12625",
+    "from": "New Delhi",
+    "to": "Thiruvananthapuram",
+    "date": "2026-04-08",
+    "departure": "11:35",
+    "arrival": "05:30",
+    "passengers": [
+      { "name": "Priya Nair", "age": 30, "coach": "S4", "seat": "15", "berth": "Upper", "status": "CNF" },
+      { "name": "Suresh Nair", "age": 55, "coach": "S4", "seat": "16", "berth": "Lower", "status": "CNF" }
+    ]
+  },
+  {
+    "pnr": "3047816523",
+    "trainName": "Vande Bharat Express",
+    "trainNo": "20901",
+    "from": "Mumbai Central",
+    "to": "Ahmedabad",
+    "date": "2026-04-22",
+    "departure": "06:00",
+    "arrival": "12:55",
+    "passengers": [
+      { "name": "Rahul Mehta", "age": 35, "coach": "EC1", "seat": "4", "berth": "—", "status": "CNF" }
+    ]
+  },
+  {
+    "pnr": "7654321098",
+    "trainName": "Duronto Express",
+    "trainNo": "12269",
+    "from": "Howrah",
+    "to": "New Delhi",
+    "date": "2026-04-18",
+    "departure": "08:05",
+    "arrival": "05:00",
+    "passengers": [
+      { "name": "Sneha Das", "age": 28, "coach": "A2", "seat": "22", "berth": "Side Upper", "status": "CNF" }
+    ]
+  }
+]
